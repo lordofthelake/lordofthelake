@@ -4,7 +4,7 @@ Originally from 🇮🇹 Italy, currently located in 🇩🇪 Berlin, Germany, I
 
 I work with a wide range of technologies across the entire web stack; I'm equally comfortable managing and provisioning infrastructure, architecting and building an application backend, or creating design systems and implementing UIs.
 
-I have long-stading expertise on:
+I have long-standing expertise on:
 
 - Full-stack web development on Ruby on Rails, Node.js, React.js
 - Native mobile development on Android (Java) or cross-platform (React Native)
