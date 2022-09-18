@@ -13,8 +13,7 @@ I have long-standing expertise on:
 
 I work as freelance engineer and tech consultant for several companies in Berlin. I work mostly with high-growth companies, either in the early stages — designing the initial software architecture, establishing processes, helping with technical hiring — or in more mature organizations that are looking for help bootstrapping new teams and products.
 
-If you have a project on which you think we should work together, you can contact me via [email](mailto:michele@piccirillo.io) or [LinkedIn](https://linkedin.com/in/michelepiccirillo/).
-
+If you have a project on which you think we should work together, you can contact me via [email](mailto:michele@piccirillo.io) or [LinkedIn](https://linkedin.com/in/michelepiccirillo/). I'm open to work with companies in Berlin that have remote or hybrid arrangements, or fully remote worldwide.
 
 <!--
 **lordofthelake/lordofthelake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
